@@ -38,7 +38,7 @@ Simply run:
 ## Gameplay basics
 
 * Use arrow keys to move
-* IN PROGRESS -----Use spacebar to interact with NPCs and other entities in the environment----
+* IN PROGRESS -----Use spacebar to interact with NPCs and other entities in the environment----Library to fix
 
 __________________________
 ## Important !
