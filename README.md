@@ -40,6 +40,10 @@ Simply run:
 * Use arrow keys to move
 * IN PROGRESS -----Use spacebar to interact with NPCs and other entities in the environment----Library to fix
 
+## STORY
+
+Use my character to earn level by going inside the houses and search dev skill books !
+
 __________________________
 ## Important !
 
